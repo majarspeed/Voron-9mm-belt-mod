@@ -5,7 +5,7 @@ Trident 9mm belts
 100% in testing use at your own risk STL's when testing is done. 
 
 Changes:
-added cad for embedded y endstops in a motor upper 1/15/22
+added cad for embedded y endstops in a motor upper 11/15/22
 
 
 ## BOM
