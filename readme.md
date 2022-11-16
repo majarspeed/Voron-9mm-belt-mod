@@ -6,6 +6,7 @@ Trident 9mm belts
 
 Changes:
 added cad for embedded y endstops in a motor upper 11/15/22
+updated almost all parts for addtional clearances, Changed 36 mm pin to 35 mm pin. 11/16/22
 
 
 ## BOM
@@ -35,7 +36,7 @@ XY joints (All screws from bottom remain unchanged)
 Pins
 | Count | Size |Notes |
 | ------ | ------ |------ |
-| 2 | 36mm| AB motor mounts |
+| 2 | 35mm| AB motor mounts |
 | 6 | 25mm | 2 for AB motor 4 for xy joints| 
 | 2 | 45mm | Idlers |
 
