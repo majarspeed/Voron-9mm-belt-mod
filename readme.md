@@ -7,6 +7,12 @@ Trident 9mm belts
 Changes:
 added cad for embedded y endstops in a motor upper 11/15/22
 updated almost all parts for addtional clearances, Changed 36 mm pin to 35 mm pin. 11/16/22
+All versions have y endstop a drives now
+Added 2.4 pinned and unpinned versions 
+renamed page to reflect it is not just trident 
+added cw1 and cw2 carriages 
+11-19-22
+
 
 
 ## BOM
