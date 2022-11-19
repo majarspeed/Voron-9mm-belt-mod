@@ -26,6 +26,7 @@ AB Drives
 | 2 | 9mm gt2 idlers| |
 
 
+
 Idlers
 | Count | Size |Notes |
 | ------ | ------ |------ |
@@ -60,7 +61,7 @@ Bearings
 | 24 | F695 |
 | 12 | 695 |
 
-
+Need an Addtional (8)m5x16 for belt clamps on 2.4 
 
 
 
