@@ -2,16 +2,22 @@
 Trident 9mm belts 
 
 
-100% in testing use at your own risk STL's when testing is done. 
+100% in testing use at your own risk.
 I made all the edits multiple times to make all the versions of parts. Like the Y endstop and pinned versions. I am postive there are mistakes or errors. If you find an issues let me know so I can get it corrected. Thanks and I hope you enjoy it. 
 
 Changes:
 added cad for embedded y endstops in a motor upper 11/15/22
+
 updated almost all parts for addtional clearances, Changed 36 mm pin to 35 mm pin. 11/16/22
+
 All versions have y endstop a drives now
+
 Added 2.4 pinned and unpinned versions 
+
 renamed page to reflect it is not just trident 
+
 added cw1 and cw2 carriages 
+
 11-19-22
 
 
