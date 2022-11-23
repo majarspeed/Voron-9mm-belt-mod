@@ -20,6 +20,12 @@ added cw1 and cw2 carriages
 
 11-19-22
 
+Updated XY joints for addtional clearances. 
+
+AB pin added more space for easiers slotting of pins.
+
+11/23/22
+
 
 
 ## BOM
